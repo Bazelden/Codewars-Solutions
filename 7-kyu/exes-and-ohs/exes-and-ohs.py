@@ -12,6 +12,10 @@ def xo(s):
     
     #check to see if amount of x and o are the same or non-existent and return true, else return false.
     return x_amount == o_amount
+
+    #The AI one liner ¬_¬
+    #def xo(s):
+    #return s.lower().count('x') == s.lower().count('o')
     
     
         
